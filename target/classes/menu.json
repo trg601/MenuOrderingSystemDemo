@@ -1,0 +1,48 @@
+{
+	"breakfast": [
+		{
+			"name": "Eggs",
+			"type": "Main"
+		},
+		{
+			"name": "Toast",
+			"type": "Side"
+		},
+		{
+			"name": "Coffee",
+			"type": "Drink"
+		}
+	],
+	"lunch": [
+		{
+			"name": "Sandwich",
+			"type": "Main"
+		},
+		{
+			"name": "Chips",
+			"type": "Side"
+		},
+		{
+			"name": "Soda",
+			"type": "Drink"
+		}
+	],
+	"dinner": [
+		{
+			"name": "Steak",
+			"type": "Main"
+		},
+		{
+			"name": "Potatoes",
+			"type": "Side"
+		},
+		{
+			"name": "Wine",
+			"type": "Drink"
+		},
+		{
+			"name": "Cake",
+			"type": "Dessert"
+		}
+	]
+}
